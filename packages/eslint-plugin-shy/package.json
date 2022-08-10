@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-shy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "homepage": "https://github.com/shy1118999/eslint-config",
   "main": "./dist/index.cjs",
