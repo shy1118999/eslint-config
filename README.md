@@ -1,4 +1,4 @@
-# @shy/eslint-config
+# @shy1118/eslint-config
 
 > 🎉 Fork by [antfu/eslint-config](https://github.com/antfu/eslint-config)
 
@@ -14,14 +14,14 @@
 ### Install
 
 ```bash
-pnpm add -D eslint @shy/eslint-config
+pnpm add -D eslint @shy1118/eslint-config
 ```
 
 ### Config `.eslintrc`
 
 ```json
 {
-  "extends": "@shy"
+  "extends": "@shy1118"
 }
 ```
 

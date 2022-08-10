@@ -1,5 +1,5 @@
 {
-  "name": "@shy/eslint-config-vue",
+  "name": "@shy1118/eslint-config-vue",
   "version": "1.0.2",
   "description": "",
   "author": "shy1118 <shy1118999@gmail.com> (https://github.com/shy1118999/)",
@@ -15,7 +15,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@shy/eslint-config-ts": "workspace:*",
+    "@shy1118/eslint-config-ts": "workspace:*",
     "eslint-plugin-vue": "^9.3.0"
   },
   "devDependencies": {

@@ -1,5 +1,5 @@
 {
-  "name": "@shy/eslint-config-ts",
+  "name": "@shy1118/eslint-config-ts",
   "version": "1.0.2",
   "description": "",
   "author": "shy1118 <shy1118999@gmail.com> (https://github.com/shy1118999/)",
@@ -17,7 +17,7 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
-    "@shy/eslint-config-basic": "workspace:*",
+    "@shy1118/eslint-config-basic": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^5.32.0",
     "@typescript-eslint/parser": "^5.32.0"
   },

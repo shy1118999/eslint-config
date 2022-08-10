@@ -1,5 +1,5 @@
 {
-  "name": "@shy/eslint-config-react",
+  "name": "@shy1118/eslint-config-react",
   "version": "1.0.2",
   "description": "",
   "author": "shy1118 <shy1118999@gmail.com> (https://github.com/shy1118999/)",
@@ -19,7 +19,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@shy/eslint-config-ts": "workspace:*",
+    "@shy1118/eslint-config-ts": "workspace:*",
     "eslint-plugin-react": "^7.30.1"
   },
   "devDependencies": {
