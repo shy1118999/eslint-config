@@ -1,0 +1,6 @@
+{
+  "extends": "@shy",
+  "plugins": [
+    "shy"
+  ]
+}

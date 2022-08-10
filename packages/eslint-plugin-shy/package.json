@@ -1,8 +1,8 @@
 {
-  "name": "eslint-plugin-antfu",
-  "version": "0.26.0",
+  "name": "eslint-plugin-shy",
+  "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/eslint-config",
+  "homepage": "https://github.com/shy1118999/eslint-config",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
